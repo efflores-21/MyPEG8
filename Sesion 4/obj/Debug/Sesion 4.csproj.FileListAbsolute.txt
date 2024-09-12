@@ -1,0 +1,10 @@
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\bin\Debug\Sesion 4.exe.config
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\bin\Debug\Sesion 4.exe
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\bin\Debug\Sesion 4.pdb
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion 4.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion_4.Properties.Resources.resources
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion 4.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion 4.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion 4.exe
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion 4.pdb
+C:\Users\gabri\Desktop\UAM CLASES\MYPE Grupo 3\Sesion 4\obj\Debug\Sesion_4.Ejemplo1.resources
